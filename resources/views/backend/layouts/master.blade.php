@@ -31,7 +31,7 @@
       <!-- partial:partials/_navbar.html -->
     <nav class="navbar default-layout col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
         <div class="text-center navbar-brand-wrapper d-flex align-items-top justify-content-center">
-         
+         <h3 class="mt-2 text-white font-italic">AMC</h3>
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-center">
           <h3 class="m-auto">Amzadia Muktijoddha Academy</h3>
